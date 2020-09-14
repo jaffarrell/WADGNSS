@@ -1,0 +1,32 @@
+\documentclass[12pt, letterpaper, twoside]{article}
+\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+
+\begin{document}
+
+\title{WADGNSS Server User Guide}
+\date{August 2020}
+
+\begin{titlepage}
+	\maketitle
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{Server}
+In this section we outline installation, setup, and the command-line user interface for the WADGNSS server software. 
+
+\begin{enumerate}
+\item Download the pre-requisite software packages by executing the following commands from your terminal:
+\begin{verbatim}
+$ sudo apt update && sudo apt upgrade ;
+$ sudo apt clean && sudo apt auto-remove ;
+$ sudo apt install libcurl4-openssl-dev libqtwebkit4 libqt4-svg ;
+$ sudo apt install zlib1g-dev libcanberra-gtk-module ;
+\end{verbatim}
+
+\end{enumerate}
+
+\end{document}
