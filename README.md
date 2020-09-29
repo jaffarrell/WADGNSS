@@ -3,3 +3,10 @@ This repository provides open-source software and documentation that implements 
 The client software released here communicates between the user receiver and the correction server. The client establishes connections with the recevier and the server. Then, the client (1) communicates the users desired reference station location to the server, (2) communicates the server messages to the receiver. The client source code can be modified by the user to send the receiver output messsages to other applications or computer output ports.
 
 
+## Contributors
+
+* Wang Hu - [GitHub](https://github.com/Azurehappen)
+* Dan Vyenielo - [GitHub](https://github.com/dvnlo)
+* Farzana Rahman - [GitHub](https://github.com/FarzanaRahman)
+* Xiaojun Dong - [GitHub](https://github.com/Akatsukis)
+* Jay Farrell - [GitHub](https://github.com/jaffarrell)
