@@ -2,6 +2,7 @@ This repository provides open-source software and documentation that implements 
 
 The client software released here communicates between the user receiver and the correction server. The client establishes connections with the recevier and the server. Then, the client (1) communicates the users desired reference station location to the server, (2) communicates the server messages to the receiver. The client source code can be modified by the user to send the receiver output messsages to other applications or computer output ports.
 
+An improved version, extended to multi-GNSS, is available at https://github.com/Azurehappen/Virtual-Network-DGNSS-Project
 
 ## Contributors
 
